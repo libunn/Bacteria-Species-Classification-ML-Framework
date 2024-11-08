@@ -5,7 +5,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-brightgreen.svg)](https://scikit-learn.org/)  
 
 ## Overview  
-This repository contains the code and documentation for a computational framework developed for accurate classification of bacterial species, particularly closely related strains. The framework integrates genomic analysis techniques, such as motif screening and single nucleotide polymorphism (SNP) extraction, with machine learning models to enable robust species differentiation.  
+This repository contains the code and computational framework for the machine learning components developed for accurate classification of bacterial species, particularly closely related strains. The framework integrates genomic analysis techniques, such as motif screening and single nucleotide polymorphism (SNP) extraction, with machine learning models to enable robust species differentiation.  
 
 ## Table of Contents  
 1. [Notebooks](#notebooks)  
